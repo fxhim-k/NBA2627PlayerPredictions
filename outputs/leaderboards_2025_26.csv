@@ -1,0 +1,201 @@
+metric,rank,player_name,team,value,season
+Points per game,1,Luka Dončić,LAL,33.5,2025-26
+Points per game,2,Shai Gilgeous-Alexander,OKC,31.1,2025-26
+Points per game,3,Anthony Edwards,MIN,28.8,2025-26
+Points per game,4,Jaylen Brown,BOS,28.7,2025-26
+Points per game,5,Tyrese Maxey,PHI,28.3,2025-26
+Points per game,6,Donovan Mitchell,CLE,27.9,2025-26
+Points per game,7,Kawhi Leonard,LAC,27.9,2025-26
+Points per game,8,Nikola Jokić,DEN,27.7,2025-26
+Points per game,9,Giannis Antetokounmpo,MIL,27.6,2025-26
+Points per game,10,Joel Embiid,PHI,26.9,2025-26
+Points per game,11,Lauri Markkanen,UTA,26.7,2025-26
+Points per game,12,Stephen Curry,GSW,26.6,2025-26
+Points per game,13,Devin Booker,PHX,26.1,2025-26
+Points per game,14,Jalen Brunson,NYK,26.0,2025-26
+Points per game,15,Kevin Durant,HOU,26.0,2025-26
+Points per game,16,Jamal Murray,DEN,25.4,2025-26
+Points per game,17,Victor Wembanyama,SAS,25.0,2025-26
+Points per game,18,Michael Porter Jr.,BKN,24.2,2025-26
+Points per game,19,Deni Avdija,POR,24.2,2025-26
+Points per game,20,Pascal Siakam,IND,24.0,2025-26
+Rebounds per game,1,Nikola Jokić,DEN,12.9,2025-26
+Rebounds per game,2,Karl-Anthony Towns,NYK,11.9,2025-26
+Rebounds per game,3,Donovan Clingan,POR,11.6,2025-26
+Rebounds per game,4,Victor Wembanyama,SAS,11.5,2025-26
+Rebounds per game,5,Rudy Gobert,MIN,11.5,2025-26
+Rebounds per game,6,Anthony Davis,WAS,11.1,2025-26
+Rebounds per game,7,Ivica Zubac,IND,10.6,2025-26
+Rebounds per game,8,Jalen Duren,DET,10.5,2025-26
+Rebounds per game,9,Jusuf Nurkić,UTA,10.4,2025-26
+Rebounds per game,10,Jalen Johnson,ATL,10.3,2025-26
+Rebounds per game,11,Bam Adebayo,MIA,10.0,2025-26
+Rebounds per game,12,Giannis Antetokounmpo,MIL,9.8,2025-26
+Rebounds per game,13,Isaiah Hartenstein,OKC,9.4,2025-26
+Rebounds per game,14,Kel'el Ware,MIA,9.0,2025-26
+Rebounds per game,15,Evan Mobley,CLE,9.0,2025-26
+Rebounds per game,16,Alperen Sengun,HOU,8.9,2025-26
+Rebounds per game,17,Chet Holmgren,OKC,8.9,2025-26
+Rebounds per game,18,Mitchell Robinson,NYK,8.8,2025-26
+Rebounds per game,19,Moussa Diabaté,CHA,8.7,2025-26
+Rebounds per game,20,Steven Adams,HOU,8.6,2025-26
+Assists per game,1,Nikola Jokić,DEN,10.7,2025-26
+Assists per game,2,Cade Cunningham,DET,9.9,2025-26
+Assists per game,3,Josh Giddey,CHI,9.1,2025-26
+Assists per game,4,Luka Dončić,LAL,8.3,2025-26
+Assists per game,5,Ja Morant,MEM,8.1,2025-26
+Assists per game,6,James Harden,CLE,8.0,2025-26
+Assists per game,7,Jalen Johnson,ATL,7.9,2025-26
+Assists per game,8,Andrew Nembhard,IND,7.7,2025-26
+Assists per game,9,Kevin Porter Jr.,MIL,7.4,2025-26
+Assists per game,10,Stephon Castle,SAS,7.4,2025-26
+Assists per game,11,LeBron James,LAL,7.2,2025-26
+Assists per game,12,Isaiah Collier,UTA,7.2,2025-26
+Assists per game,13,Jamal Murray,DEN,7.1,2025-26
+Assists per game,14,LaMelo Ball,CHA,7.1,2025-26
+Assists per game,15,Jalen Brunson,NYK,6.8,2025-26
+Assists per game,16,Russell Westbrook,SAC,6.7,2025-26
+Assists per game,17,Deni Avdija,POR,6.7,2025-26
+Assists per game,18,Darius Garland,LAC,6.7,2025-26
+Assists per game,19,Tyrese Maxey,PHI,6.6,2025-26
+Assists per game,20,Shai Gilgeous-Alexander,OKC,6.6,2025-26
+3-pointers made per game,1,Stephen Curry,GSW,4.4,2025-26
+3-pointers made per game,2,Luka Dončić,LAL,4.0,2025-26
+3-pointers made per game,3,LaMelo Ball,CHA,3.8,2025-26
+3-pointers made per game,4,Kon Knueppel,CHA,3.4,2025-26
+3-pointers made per game,5,Anthony Edwards,MIN,3.4,2025-26
+3-pointers made per game,6,Michael Porter Jr.,BKN,3.4,2025-26
+3-pointers made per game,7,Jamal Murray,DEN,3.3,2025-26
+3-pointers made per game,8,Donovan Mitchell,CLE,3.2,2025-26
+3-pointers made per game,9,Trey Murphy III,NOP,3.2,2025-26
+3-pointers made per game,10,Nickeil Alexander-Walker,ATL,3.2,2025-26
+3-pointers made per game,11,James Harden,CLE,3.1,2025-26
+3-pointers made per game,12,Tyrese Maxey,PHI,3.1,2025-26
+3-pointers made per game,13,Brandon Miller,CHA,3.1,2025-26
+3-pointers made per game,14,Grayson Allen,PHX,3.1,2025-26
+3-pointers made per game,15,AJ Green,MIL,3.0,2025-26
+3-pointers made per game,16,Donte DiVincenzo,MIN,3.0,2025-26
+3-pointers made per game,17,Sam Merrill,CLE,3.0,2025-26
+3-pointers made per game,18,Klay Thompson,DAL,2.9,2025-26
+3-pointers made per game,19,Collin Gillespie,PHX,2.9,2025-26
+3-pointers made per game,20,Duncan Robinson,DET,2.9,2025-26
+Steals per game,1,Kevin Porter Jr.,MIL,2.2,2025-26
+Steals per game,2,Ausar Thompson,DET,2.0,2025-26
+Steals per game,3,Dyson Daniels,ATL,2.0,2025-26
+Steals per game,4,Matisse Thybulle,POR,2.0,2025-26
+Steals per game,5,Kawhi Leonard,LAC,1.9,2025-26
+Steals per game,6,Cason Wallace,OKC,1.9,2025-26
+Steals per game,7,Tyrese Maxey,PHI,1.9,2025-26
+Steals per game,8,Jalen Suggs,ORL,1.8,2025-26
+Steals per game,9,Paul George,PHI,1.7,2025-26
+Steals per game,10,Kris Dunn,LAC,1.6,2025-26
+Steals per game,11,De'Anthony Melton,GSW,1.6,2025-26
+Steals per game,12,Herbert Jones,NOP,1.6,2025-26
+Steals per game,13,OG Anunoby,NYK,1.6,2025-26
+Steals per game,14,Luka Dončić,LAL,1.6,2025-26
+Steals per game,15,Reed Sheppard,HOU,1.5,2025-26
+Steals per game,16,Ryan Rollins,MIL,1.5,2025-26
+Steals per game,17,John Konchar,UTA,1.5,2025-26
+Steals per game,18,Jordan Goodwin,PHX,1.5,2025-26
+Steals per game,19,Trey Murphy III,NOP,1.5,2025-26
+Steals per game,20,Donovan Mitchell,CLE,1.5,2025-26
+Blocks per game,1,Victor Wembanyama,SAS,3.1,2025-26
+Blocks per game,2,Alex Sarr,WAS,2.0,2025-26
+Blocks per game,3,Chet Holmgren,OKC,1.9,2025-26
+Blocks per game,4,Jay Huff,IND,1.9,2025-26
+Blocks per game,5,Anthony Davis,WAS,1.7,2025-26
+Blocks per game,6,Donovan Clingan,POR,1.7,2025-26
+Blocks per game,7,Evan Mobley,CLE,1.7,2025-26
+Blocks per game,8,Rudy Gobert,MIN,1.6,2025-26
+Blocks per game,9,Myles Turner,MIL,1.6,2025-26
+Blocks per game,10,Isaiah Stewart,DET,1.6,2025-26
+Blocks per game,11,Keegan Murray,SAC,1.6,2025-26
+Blocks per game,12,Scottie Barnes,TOR,1.5,2025-26
+Blocks per game,13,Dylan Cardwell,SAC,1.5,2025-26
+Blocks per game,14,Matas Buzelis,CHI,1.5,2025-26
+Blocks per game,15,Ryan Kalkbrenner,CHA,1.5,2025-26
+Blocks per game,16,Robert Williams III,POR,1.5,2025-26
+Blocks per game,17,Yves Missi,NOP,1.5,2025-26
+Blocks per game,18,Jaren Jackson Jr.,UTA,1.4,2025-26
+Blocks per game,19,Daniel Gafford,DAL,1.3,2025-26
+Blocks per game,20,Derrick White,BOS,1.3,2025-26
+Offense score,1,Luka Dončić,LAL,91.1,2025-26
+Offense score,2,Jamal Murray,DEN,89.9,2025-26
+Offense score,3,Nikola Jokić,DEN,89.7,2025-26
+Offense score,4,Shai Gilgeous-Alexander,OKC,89.5,2025-26
+Offense score,5,Donovan Mitchell,CLE,88.4,2025-26
+Offense score,6,Stephen Curry,GSW,88.4,2025-26
+Offense score,7,James Harden,CLE,88.3,2025-26
+Offense score,8,Austin Reaves,LAL,86.7,2025-26
+Offense score,9,Tyrese Maxey,PHI,86.6,2025-26
+Offense score,10,Kevin Durant,HOU,86.1,2025-26
+Offense score,11,Keyonte George,UTA,85.8,2025-26
+Offense score,12,Kawhi Leonard,LAC,84.8,2025-26
+Offense score,13,Anthony Edwards,MIN,84.6,2025-26
+Offense score,14,Jalen Brunson,NYK,84.5,2025-26
+Offense score,15,Deni Avdija,POR,84.0,2025-26
+Offense score,16,Trey Murphy III,NOP,82.8,2025-26
+Offense score,17,Devin Booker,PHX,82.3,2025-26
+Offense score,18,Darius Garland,LAC,81.3,2025-26
+Offense score,19,Tyler Herro,MIA,81.2,2025-26
+Offense score,20,Jalen Johnson,ATL,81.1,2025-26
+Defense score,1,Victor Wembanyama,SAS,92.1,2025-26
+Defense score,2,Scottie Barnes,TOR,88.9,2025-26
+Defense score,3,Ausar Thompson,DET,87.3,2025-26
+Defense score,4,Isaiah Hartenstein,OKC,87.1,2025-26
+Defense score,5,Bam Adebayo,MIA,83.6,2025-26
+Defense score,6,Mitchell Robinson,NYK,83.4,2025-26
+Defense score,7,Naz Reid,MIN,83.2,2025-26
+Defense score,8,Rudy Gobert,MIN,83.0,2025-26
+Defense score,9,Cade Cunningham,DET,82.6,2025-26
+Defense score,10,Onyeka Okongwu,ATL,82.6,2025-26
+Defense score,11,Paul Reed,DET,82.4,2025-26
+Defense score,12,Neemias Queta,BOS,82.1,2025-26
+Defense score,13,Jaren Jackson Jr.,UTA,80.9,2025-26
+Defense score,14,Anthony Davis,WAS,80.9,2025-26
+Defense score,15,Jalen Suggs,ORL,80.3,2025-26
+Defense score,16,Shai Gilgeous-Alexander,OKC,79.7,2025-26
+Defense score,17,Alperen Sengun,HOU,79.6,2025-26
+Defense score,18,Nikola Jokić,DEN,79.3,2025-26
+Defense score,19,Jalen Duren,DET,79.1,2025-26
+Defense score,20,John Konchar,UTA,78.6,2025-26
+All-round score,1,Shai Gilgeous-Alexander,OKC,85.6,2025-26
+All-round score,2,Nikola Jokić,DEN,85.5,2025-26
+All-round score,3,Victor Wembanyama,SAS,84.5,2025-26
+All-round score,4,Luka Dončić,LAL,83.8,2025-26
+All-round score,5,Cade Cunningham,DET,81.4,2025-26
+All-round score,6,Kawhi Leonard,LAC,80.4,2025-26
+All-round score,7,Tyrese Maxey,PHI,80.4,2025-26
+All-round score,8,Anthony Edwards,MIN,79.4,2025-26
+All-round score,9,Jalen Johnson,ATL,78.5,2025-26
+All-round score,10,Scottie Barnes,TOR,78.4,2025-26
+All-round score,11,Kevin Durant,HOU,78.4,2025-26
+All-round score,12,LeBron James,LAL,78.3,2025-26
+All-round score,13,Donovan Mitchell,CLE,77.9,2025-26
+All-round score,14,Austin Reaves,LAL,77.3,2025-26
+All-round score,15,Giannis Antetokounmpo,MIL,75.8,2025-26
+All-round score,16,Stephen Curry,GSW,75.2,2025-26
+All-round score,17,James Harden,CLE,75.2,2025-26
+All-round score,18,Deni Avdija,POR,74.8,2025-26
+All-round score,19,Onyeka Okongwu,ATL,74.8,2025-26
+All-round score,20,Jalen Suggs,ORL,74.5,2025-26
+3-point shooting score,1,Jamal Murray,DEN,97.9,2025-26
+3-point shooting score,2,Kon Knueppel,CHA,97.8,2025-26
+3-point shooting score,3,Sam Merrill,CLE,95.1,2025-26
+3-point shooting score,4,AJ Green,MIL,94.7,2025-26
+3-point shooting score,5,Anthony Edwards,MIN,92.9,2025-26
+3-point shooting score,6,Duncan Robinson,DET,92.8,2025-26
+3-point shooting score,7,Nickeil Alexander-Walker,ATL,92.1,2025-26
+3-point shooting score,8,Miles McBride,NYK,91.9,2025-26
+3-point shooting score,9,Stephen Curry,GSW,91.6,2025-26
+3-point shooting score,10,Tim Hardaway Jr.,DEN,91.4,2025-26
+3-point shooting score,11,Isaiah Joe,OKC,91.0,2025-26
+3-point shooting score,12,Collin Gillespie,PHX,90.8,2025-26
+3-point shooting score,13,Royce O'Neale,PHX,90.7,2025-26
+3-point shooting score,14,Taurean Prince,MIL,89.6,2025-26
+3-point shooting score,15,Kevin Durant,HOU,88.2,2025-26
+3-point shooting score,16,Reed Sheppard,HOU,88.2,2025-26
+3-point shooting score,17,Darius Garland,LAC,88.0,2025-26
+3-point shooting score,18,Ryan Rollins,MIL,87.7,2025-26
+3-point shooting score,19,Moses Moody,GSW,86.9,2025-26
+3-point shooting score,20,Paul George,PHI,86.6,2025-26

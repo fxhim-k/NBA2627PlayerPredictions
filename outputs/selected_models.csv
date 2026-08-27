@@ -1,0 +1,7 @@
+target,selected_model
+PTS,Random Forest
+REB,Ridge Regression
+AST,Ridge Regression
+FG3M,Random Forest
+STL,Ridge Regression
+BLK,Ridge Regression
