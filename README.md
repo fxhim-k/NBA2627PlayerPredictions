@@ -51,7 +51,7 @@ Clean player-season table
    +----------+-----------+
               |
               v
-         SQLite / Power BI
+         StreamLit
 ```
 
 ## Data
