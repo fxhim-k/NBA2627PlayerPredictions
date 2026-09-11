@@ -1,0 +1,17 @@
+# Local/deployed app chrome. `toolbarMode = "minimal"` hides the Streamlit
+# Cloud "Deploy" button and the hamburger menu — this is a finished product,
+# not a work-in-progress notebook.
+[client]
+toolbarMode = "minimal"
+showErrorDetails = true
+
+# A house palette instead of Streamlit's default red, so every native
+# widget (sliders, buttons, the active-tab underline, radio dots) already
+# matches the custom dashboard skin without extra CSS overrides.
+[theme]
+base = "light"
+primaryColor = "#EA580C"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F1EA"
+textColor = "#14213D"
+font = "sans serif"
